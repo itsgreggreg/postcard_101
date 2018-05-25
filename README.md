@@ -1,4 +1,4 @@
-Postcard 101
+#Postcard 101
 Helpful Info about sending and receiving postcards.
 
-https:postcard101.howdyhi.com
+<https:postcard101.howdyhi.com>
